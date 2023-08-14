@@ -1,0 +1,1 @@
+{{#user} Name: Gunal Skills: HTML, CSS, JS, React.js, Next.js Email: gunal2002@gmail.com {{/user}}
